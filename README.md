@@ -5,11 +5,13 @@
 [![Website](https://img.shields.io/badge/maxchui.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.maxchui.dev)
 [![LinkedIn][linkedin-badge]](https://www.linkedin.com/in/maxchui/)
 
-I lead engineering teams as an IT Director by day, but I stay hands-on. From designing architectures, reviewing PRs to shipping code. Most of what I build is TypeScript end-to-end, runs serverless on AWS, and is deployed entirely through infrastructure as code.
+I stay hands-on, from designing architectures and reviewing PRs to shipping code. Most of what I build is TypeScript end-to-end, runs on AWS, and is deployed entirely through infrastructure as code.
+
+Previously, I led engineering at De Stijl Technology Network in Hong Kong, leading two teams across APAC and building products from the ground up on serverless infrastructure.
 
 ## Lately
 
-- **Champion, [AWS AI League — AWS Summit Hong Kong 2026](https://cse.hkust.edu.hk/News/AWS_ALHK2026/)** — heading to Las Vegas to represent Hong Kong at the Global Championship Grand Finale at AWS re:Invent 2026.
+- **Champion, [AWS AI League at AWS Summit Hong Kong 2026](https://cse.hkust.edu.hk/News/AWS_ALHK2026/)**. Heading to Las Vegas to represent Hong Kong at the Global Championship Grand Finale at AWS re:Invent 2026.
 
 ## Toolbox
 
